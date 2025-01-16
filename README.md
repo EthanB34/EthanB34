@@ -1,6 +1,6 @@
 
 ## Hi there 👋
-Hello World! it's Ethan :O
+Hello World! it's Ethan 
 <!--
 **EthanB34/EthanB34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
