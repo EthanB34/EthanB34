@@ -1,17 +1,14 @@
 
 ## Hi there 👋
-Hello World! it's Ethan 
-<!--
-**EthanB34/EthanB34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello World! it's Ethan Barnes
+- 🌱 I’m currently majoring - in Computer and Electrical Engineering Technology.
+🔭 I’m currently working on - No personal projects yet, these will be updated here.
+I will also update this with course projects such as PLC projects from my Industrial Controls lab, as well as my Digital Cicruits
+class to help organize my work.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+- ⚡ Fun fact: I like computers-💻 and skateboarding/snowboarding 🏂 :D 
+
